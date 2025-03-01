@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
             window.location.href = 'about.html';
         });
     }
-    document.addEventListener('DOMContentLoaded', function() {
+
     // Add click handler for ALL SERVICES button
     const allServicesBtn = document.querySelector('.all-services-btn');
     if (allServicesBtn) {
