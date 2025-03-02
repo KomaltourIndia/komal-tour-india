@@ -55,14 +55,14 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Add click handler for ALL SERVICES button
-    const allServicesBtn = document.querySelector('.all-services-btn');
-    if (allServicesBtn) {
-        allServicesBtn.addEventListener('click', function() {
-            window.location.href = 'services.html';
-        });
-    }
-});
+//     // Add click handler for ALL SERVICES button
+//     const allServicesBtn = document.querySelector('.all-services-btn');
+//     if (allServicesBtn) {
+//         allServicesBtn.addEventListener('click', function() {
+//             window.location.href = 'services.html';
+//         });
+//     }
+// });
 
     // WhatsApp handler for all buttons
     const buttons = document.querySelectorAll('.book-now-btn');
